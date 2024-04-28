@@ -1,4 +1,4 @@
-# Personal Finance Dashboard
+# Personal FinanceVision
 
 This project aims to provide users with a comprehensive tool for managing and visualizing their personal finances. The system is divided into two main components: a Python script for managing the Excel sheet data and a Power BI dashboard for visualization. You can input your income, expenses, and savings for different months and view them in a structured manner.
 
